@@ -1,0 +1,7 @@
+{
+  "name": "vue-blog-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
